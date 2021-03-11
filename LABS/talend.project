@@ -7,6 +7,84 @@
     <documentationStatus xmi:id="_dz8LYIJaEeuI5bxnTY2AOg" label="unchecked" code="UCK"/>
     <documentationStatus xmi:id="_dz8LYYJaEeuI5bxnTY2AOg" label="checked" code="CHK"/>
     <documentationStatus xmi:id="_dz8LYoJaEeuI5bxnTY2AOg" label="validated" code="VAL"/>
+    <statAndLogsSettings xmi:id="_g-3ScIJeEeuI5bxnTY2AOg">
+      <parameters xmi:id="_g-3ScYJeEeuI5bxnTY2AOg">
+        <elementParameter xmi:id="_g_BDcIJeEeuI5bxnTY2AOg" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDcYJeEeuI5bxnTY2AOg" field="CHECK" name="STATS_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDcoJeEeuI5bxnTY2AOg" field="CHECK" name="ON_STATCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDc4JeEeuI5bxnTY2AOg" field="CHECK" name="ON_LOGCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDdIJeEeuI5bxnTY2AOg" field="CHECK" name="ON_METERCATCHER_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDdYJeEeuI5bxnTY2AOg" field="CHECK" name="ON_CONSOLE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDdoJeEeuI5bxnTY2AOg" field="CHECK" name="ON_FILES_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDd4JeEeuI5bxnTY2AOg" field="DIRECTORY" name="FILE_PATH" value="&quot;C:/Users/student/workspace/.metadata&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDeIJeEeuI5bxnTY2AOg" field="TEXT" name="FILENAME_STATS" value="&quot;stats_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDeYJeEeuI5bxnTY2AOg" field="TEXT" name="FILENAME_LOGS" value="&quot;logs_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDeoJeEeuI5bxnTY2AOg" field="TEXT" name="FILENAME_METTER" value="&quot;meter_file.txt&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDe4JeEeuI5bxnTY2AOg" field="ENCODING_TYPE" name="ENCODING" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDfIJeEeuI5bxnTY2AOg" field="CHECK" name="ON_DATABASE_FLAG" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDfYJeEeuI5bxnTY2AOg" field="PROPERTY_TYPE" name="PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDfoJeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="DB_TYPE" value="tJDBCOutput" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDf4JeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="DB_VERSION" value="ORACLE_11" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDgIJeEeuI5bxnTY2AOg" field="TEXT" name="URL" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDgYJeEeuI5bxnTY2AOg" field="TABLE" name="DRIVER_JAR" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDgoJeEeuI5bxnTY2AOg" field="TEXT" name="DRIVER_CLASS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDg4JeEeuI5bxnTY2AOg" field="TEXT" name="HOST" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDhIJeEeuI5bxnTY2AOg" field="TEXT" name="PORT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDhYJeEeuI5bxnTY2AOg" field="TEXT" name="DBNAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDhoJeEeuI5bxnTY2AOg" field="TEXT" name="LOCAL_SERVICE_NAME" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDh4JeEeuI5bxnTY2AOg" field="TEXT" name="PROPERTIES" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDiIJeEeuI5bxnTY2AOg" field="TEXT" name="SCHEMA_DB" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDiYJeEeuI5bxnTY2AOg" field="TEXT" name="USER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDioJeEeuI5bxnTY2AOg" field="PASSWORD" name="PASS" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDi4JeEeuI5bxnTY2AOg" field="FILE" name="DBFILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDjIJeEeuI5bxnTY2AOg" field="DBTABLE" name="TABLE_STATS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDjYJeEeuI5bxnTY2AOg" field="DBTABLE" name="TABLE_LOGS" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDjoJeEeuI5bxnTY2AOg" field="DBTABLE" name="TABLE_METER" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDj4JeEeuI5bxnTY2AOg" field="CHECK" name="CATCH_RUNTIME_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDkIJeEeuI5bxnTY2AOg" field="CHECK" name="CATCH_USER_ERRORS" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDkYJeEeuI5bxnTY2AOg" field="CHECK" name="CATCH_USER_WARNING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDkoJeEeuI5bxnTY2AOg" field="CHECK" name="CATCH_REALTIME_STATS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDk4JeEeuI5bxnTY2AOg" field="TECHNICAL" name="ENCODING:ENCODING_TYPE" value="ISO-8859-15" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDlIJeEeuI5bxnTY2AOg" field="TECHNICAL" name="PROPERTY_TYPE:PROPERTY_TYPE" value="BUILT_IN" contextMode="false"/>
+        <elementParameter xmi:id="_g_BDlYJeEeuI5bxnTY2AOg" field="TECHNICAL" name="PROPERTY_TYPE:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </statAndLogsSettings>
+    <implicitContextSettings xmi:id="_g_BDloJeEeuI5bxnTY2AOg">
+      <parameters xmi:id="_g_BDl4JeEeuI5bxnTY2AOg">
+        <elementParameter xmi:id="_g_T-YIJeEeuI5bxnTY2AOg" field="CHECK" name="UPDATE_COMPONENTS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-YYJeEeuI5bxnTY2AOg" field="CHECK" name="IMPLICIT_TCONTEXTLOAD" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-YoJeEeuI5bxnTY2AOg" field="CHECK" name="IMPLICT_DEFAULT_PROJECTSETTING" value="true" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-Y4JeEeuI5bxnTY2AOg" field="RADIO" name="FROM_FILE_FLAG_IMPLICIT_CONTEXT" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-ZIJeEeuI5bxnTY2AOg" field="RADIO" name="FROM_DATABASE_FLAG_IMPLICIT_CONTEXT" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-ZYJeEeuI5bxnTY2AOg" field="FILE" name="IMPLICIT_TCONTEXTLOAD_FILE" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-ZoJeEeuI5bxnTY2AOg" field="TEXT" name="FIELDSEPARATOR" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-Z4JeEeuI5bxnTY2AOg" field="PROPERTY_TYPE" name="PROPERTY_TYPE_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-aIJeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="DB_TYPE_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-aYJeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="DB_VERSION_IMPLICIT_CONTEXT" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-aoJeEeuI5bxnTY2AOg" field="TEXT" name="URL_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-a4JeEeuI5bxnTY2AOg" field="TABLE" name="DRIVER_JAR_IMPLICIT_CONTEXT" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-bIJeEeuI5bxnTY2AOg" field="TEXT" name="DRIVER_CLASS_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-bYJeEeuI5bxnTY2AOg" field="TEXT" name="HOST_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-boJeEeuI5bxnTY2AOg" field="TEXT" name="PORT_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-b4JeEeuI5bxnTY2AOg" field="TEXT" name="DBNAME_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-cIJeEeuI5bxnTY2AOg" field="TEXT" name="LOCAL_SERVICE_NAME_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-cYJeEeuI5bxnTY2AOg" field="TEXT" name="PROPERTIES_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-coJeEeuI5bxnTY2AOg" field="TEXT" name="SCHEMA_DB_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-c4JeEeuI5bxnTY2AOg" field="TEXT" name="USER_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-dIJeEeuI5bxnTY2AOg" field="PASSWORD" name="PASS_IMPLICIT_CONTEXT" value="0RMsyjmybrE=" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-dYJeEeuI5bxnTY2AOg" field="FILE" name="DBFILE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-doJeEeuI5bxnTY2AOg" field="DBTABLE" name="DBTABLE_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-d4JeEeuI5bxnTY2AOg" field="TEXT" name="QUERY_CONDITION_IMPLICIT_CONTEXT" value="&quot;&quot;" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-eIJeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="LOAD_NEW_VARIABLE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-eYJeEeuI5bxnTY2AOg" field="CLOSED_LIST" name="NOT_LOAD_OLD_VARIABLE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-eoJeEeuI5bxnTY2AOg" field="CHECK" name="PRINT_OPERATIONS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-e4JeEeuI5bxnTY2AOg" field="CHECK" name="DISABLE_ERROR" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-fIJeEeuI5bxnTY2AOg" field="CHECK" name="DISABLE_WARNINGS" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-fYJeEeuI5bxnTY2AOg" field="CHECK" name="DISABLE_INFO" value="false" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-foJeEeuI5bxnTY2AOg" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:PROPERTY_TYPE" value="" contextMode="false"/>
+        <elementParameter xmi:id="_g_T-f4JeEeuI5bxnTY2AOg" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
+      </parameters>
+    </implicitContextSettings>
     <ItemsRelations xmi:id="_ceMZEIJdEeuI5bxnTY2AOg">
       <baseItem xmi:id="_ceMZEYJdEeuI5bxnTY2AOg" id="_DPVZYIJcEeuI5bxnTY2AOg" version="2.5" type="job"/>
       <relatedItems xmi:id="_ceMZEoJdEeuI5bxnTY2AOg" id="DataOperation" version="Latest" type="routine"/>
